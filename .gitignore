@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build / dist folders (si tu utilises un bundler type Vite/Webpack plus tard)
+dist/
+build/
+
+# Environnements (si tu ajoutes un .env pour des clés API, etc.)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
